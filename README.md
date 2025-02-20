@@ -1,3 +1,6 @@
+
+![Screenshot 2025-02-20 050521](https://github.com/user-attachments/assets/06445edc-7653-4563-8f5b-c0b92910d10b)
+
 - **Backend** (ArmaLogBackend) on **Linux**:
 
   - Advanced **licensing** with usage constraints & remote kill (so you can void a license key).
