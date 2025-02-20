@@ -1,4 +1,4 @@
-
+This project is a massive work in progress, and there are plenty of errors and bugs to sort out!
 ![Screenshot 2025-02-20 050521](https://github.com/user-attachments/assets/06445edc-7653-4563-8f5b-c0b92910d10b)
 
 - **Backend** (ArmaLogBackend) on **Linux**:
