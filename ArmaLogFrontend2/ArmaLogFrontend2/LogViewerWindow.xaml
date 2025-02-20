@@ -1,0 +1,26 @@
+<Window x:Class="ArmaLogFrontend.LogViewerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Log Viewer" Height="450" Width="800"
+        Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Top panel with a Stop Logs button and a status label -->
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Margin="10">
+            <Button x:Name="StopLogsButton" Content="Stop Logs" 
+                    Click="StopLogsButton_Click" Width="80" Margin="0,0,10,0"/>
+            <TextBlock x:Name="StatusTextBlock" Text="Status: " 
+                       VerticalAlignment="Center"/>
+        </StackPanel>
+
+        <!-- A TextBox to show logs, inside a ScrollViewer -->
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto" 
+                      HorizontalScrollBarVisibility="Auto" Margin="10">
+            <TextBox x:Name="LogTextBox" IsReadOnly="True" TextWrapping="NoWrap"/>
+        </ScrollViewer>
+    </Grid>
+</Window>

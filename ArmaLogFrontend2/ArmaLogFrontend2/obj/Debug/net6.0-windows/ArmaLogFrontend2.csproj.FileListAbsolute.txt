@@ -1,0 +1,12 @@
+C:\Users\marwa\OneDrive\Documents\VS\ArmaLogFrontend2\ArmaLogFrontend2\obj\Debug\net6.0-windows\ArmaLogFrontend2.csproj.AssemblyReference.cache
+C:\Users\marwa\OneDrive\Documents\VS\ArmaLogFrontend2\ArmaLogFrontend2\obj\Debug\net6.0-windows\LogViewerWindow.baml
+C:\Users\marwa\OneDrive\Documents\VS\ArmaLogFrontend2\ArmaLogFrontend2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\marwa\OneDrive\Documents\VS\ArmaLogFrontend2\ArmaLogFrontend2\obj\Debug\net6.0-windows\LogViewerWindow.g.cs
+C:\Users\marwa\OneDrive\Documents\VS\ArmaLogFrontend2\ArmaLogFrontend2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\marwa\OneDrive\Documents\VS\ArmaLogFrontend2\ArmaLogFrontend2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\marwa\OneDrive\Documents\VS\ArmaLogFrontend2\ArmaLogFrontend2\obj\Debug\net6.0-windows\ArmaLogFrontend2_MarkupCompile.cache
+C:\Users\marwa\OneDrive\Documents\VS\ArmaLogFrontend2\ArmaLogFrontend2\obj\Debug\net6.0-windows\ArmaLogFrontend2.g.resources
+C:\Users\marwa\OneDrive\Documents\VS\ArmaLogFrontend2\ArmaLogFrontend2\obj\Debug\net6.0-windows\ArmaLogFrontend2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\OneDrive\Documents\VS\ArmaLogFrontend2\ArmaLogFrontend2\obj\Debug\net6.0-windows\ArmaLogFrontend2.AssemblyInfoInputs.cache
+C:\Users\marwa\OneDrive\Documents\VS\ArmaLogFrontend2\ArmaLogFrontend2\obj\Debug\net6.0-windows\ArmaLogFrontend2.AssemblyInfo.cs
+C:\Users\marwa\OneDrive\Documents\VS\ArmaLogFrontend2\ArmaLogFrontend2\obj\Debug\net6.0-windows\ArmaLogFrontend2.csproj.CoreCompileInputs.cache

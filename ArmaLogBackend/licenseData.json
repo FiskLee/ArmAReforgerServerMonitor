@@ -1,0 +1,12 @@
+{
+    "Type": "Full",
+    "MaxUsage": 999999,
+    "Expires": "2030-12-31T23:59:59Z",
+    "Features": [
+      "Alarms",
+      "Geolocation",
+      "DailyUsage",
+      "CrossPlatformIO",
+      "NoRestrictions"
+    ]
+  }
